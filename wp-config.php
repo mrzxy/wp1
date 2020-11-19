@@ -26,10 +26,10 @@ define( 'DB_NAME', 'wp' );
 define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '123456' );
+define( 'DB_PASSWORD', 'yuenan@123' );
 
 /** MySQL hostname */
-define( 'DB_HOST', '10.10.10.195' );
+define( 'DB_HOST', 'localhost' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
@@ -46,14 +46,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         '^K9&LIW~)K$g%.aw)rIWR/3tQpL-FK;r<M}c]>4@-br`Z>V~*`XvSX*LUMuuJnOc' );
-define( 'SECURE_AUTH_KEY',  'tfFKXsKPP2SvhXTVe.%ii<gVTVMALYFB!j_t(Bbm!Q*&=WjV7ZEXFXU)NUR1k[Vp' );
-define( 'LOGGED_IN_KEY',    '2,r):zZXND%M`+GKC>0b)zkC7)p6WJ0rh?M0;mT,c9&BiSB.tk0`BDwHU$#{pN2D' );
-define( 'NONCE_KEY',        '~xGL6?G99!0*WGRMnC5)x6jB -#&YM,P-nNE}tWhTeBsA4L}cb@mqie/I|y~;b4n' );
-define( 'AUTH_SALT',        '.D4.=yiD_TLLE[Uc`f5~KvP+TO+#/>_&CPy%f(yuh%9;s>yG[q!(j?KBx9o&/$nA' );
-define( 'SECURE_AUTH_SALT', ')#W|`JIV3)BfS_o8.Y,.J.i|nbqAm;]YNW{u,gylON>qlq,H}N&|i7_W>HPQT#t|' );
-define( 'LOGGED_IN_SALT',   'XG%t<>Vw?oG[W7XzISXC/3(y#MTj[%7Kyu(@cZS2<RuA/IOs$P&C[Pa-}S#/6K K' );
-define( 'NONCE_SALT',       'SFv-w0{&meI.BKtc<E?4e;?2JUr{0#D$i<jnP>;*~`p.TP@C6Q-pq:CC!in<Dkvh' );
+define( 'AUTH_KEY',         '5?LYLIbQL[=`3IsCV]sO6zeJA8f@io[$}7aC$N;gq|~2!455x*:rg-n=vJV%EtIH' );
+define( 'SECURE_AUTH_KEY',  'RO-n%. [)^fK>L SmdqH?7>!;;-(x^OK]|F@/H%vKG{;|~yuZ_$qS&`mW_g ;Iv)' );
+define( 'LOGGED_IN_KEY',    'PoF.orw1VQ5ls4oJ7,+,y:-kLU dk4 aKRP~mbJwkd:@P,8)*),h9@,D(CAOMbd(' );
+define( 'NONCE_KEY',        'G.!$b!fD~`YzVgRQ]/iT0IKC&1</0]-I1]a39Z*s&RYMh`*uHl Y]C}{(*b+.ZWC' );
+define( 'AUTH_SALT',        'dJ(7i7<o%;KWl1~P3XgH, ^I7+jUO`7)$1vacIthDtrv#uaeL:i0O_=VGze>?@v.' );
+define( 'SECURE_AUTH_SALT', 'Auy1:0x{Ht=c)R.K6n>Y>1`8kR9//^U5qtGRm9,KE%?,w:^z-*wH;1=`])j% gP.' );
+define( 'LOGGED_IN_SALT',   ']x@7|-$t5,;&&oqsr_QuO2|OiT*QBcS5,ZPAt*~.oY(KuW-uuTQU-?!&;SwX>i-*' );
+define( 'NONCE_SALT',       'WUHs&+|7VW,a8}G;EN%:yvgVefD7]Y%][7vGXk(8B7K@tZ!OBE]aCJg7m[^R{tf2' );
 
 /**#@-*/
 
